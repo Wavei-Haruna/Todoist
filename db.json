@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user",
+      "password": "password",
+      "avatar": "ulr"
+    },
+    {
+      "username": "Haruna wavei",
+      "password": "123456",
+      "avatar": "uieas",
+      "id": 2
+    },
+    {
+      "username": "Sule",
+      "password": "123456",
+      "avatar": "null",
+      "id": 3
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "task": "task",
+      "desc": "descripton",
+      "compeleted": false
+    },
+    {
+      "task": "Work on NavBar",
+      "completed": false,
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "task": "Clean my room",
+      "completed": false,
+      "userId": 2,
+      "id": 3
+    }
+  ]
+}
